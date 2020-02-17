@@ -16,5 +16,21 @@ namespace Quiz_Vlajky
         {
             InitializeComponent();
         }
+        private void ImageButton_Clicked_13(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new Page4());
+        }
+        private void ImageButton_Clicked_14(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new Page4());
+        }
+        private void ImageButton_Clicked_15(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new Page4());
+        }
+        private void ImageButton_Clicked_16(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new Page4());
+        }
     }
 }
